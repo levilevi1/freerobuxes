@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    background: rgb(42,42,42);
+}
+
+a{
+    text-decoration: none;
+}
+
+button {
+    background: gray;
+    height: 70px;
+    width: 120px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    background: lightgray;
+}
